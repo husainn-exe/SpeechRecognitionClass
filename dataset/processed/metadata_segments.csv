@@ -1,0 +1,241 @@
+segment_filename,source_filename,annotation_filename,path,start_time,end_time,duration,label,speaker,environment
+wake_0001_insert_audio_(85).wav,wake_word_1hour.wav,insert_audio (85).wav,dataset\processed\wake_word\wake_0001_insert_audio_(85).wav,2.4,5.47,0.96,wake_word,speaker_1,indoor
+wake_0002_insert_audio_(25).wav,wake_word_1hour.wav,insert_audio (25).wav,dataset\processed\wake_word\wake_0002_insert_audio_(25).wav,13.61,16.68,1.312,wake_word,speaker_1,indoor
+wake_0003_insert_audio_(67).wav,wake_word_1hour.wav,insert_audio (67).wav,dataset\processed\wake_word\wake_0003_insert_audio_(67).wav,48.15,51.23,0.928,wake_word,speaker_1,indoor
+wake_0004_insert_audio_(28).wav,wake_word_1hour.wav,insert_audio (28).wav,dataset\processed\wake_word\wake_0004_insert_audio_(28).wav,81.69,84.76,1.344,wake_word,speaker_1,indoor
+wake_0005_insert_audio_(34).wav,wake_word_1hour.wav,insert_audio (34).wav,dataset\processed\wake_word\wake_0005_insert_audio_(34).wav,197.62,200.44,0.96,wake_word,speaker_1,indoor
+wake_0006_insert_audio_(12).wav,wake_word_1hour.wav,insert_audio (12).wav,dataset\processed\wake_word\wake_0006_insert_audio_(12).wav,242.96,245.77,1.312,wake_word,speaker_1,indoor
+wake_0007_insert_audio_(86).wav,wake_word_1hour.wav,insert_audio (86).wav,dataset\processed\wake_word\wake_0007_insert_audio_(86).wav,266.45,269.53,0.96,wake_word,speaker_1,indoor
+wake_0008_insert_audio_(32).wav,wake_word_1hour.wav,insert_audio (32).wav,dataset\processed\wake_word\wake_0008_insert_audio_(32).wav,290.3,293.37,1.408,wake_word,speaker_1,indoor
+wake_0009_insert_audio_(87).wav,wake_word_1hour.wav,insert_audio (87).wav,dataset\processed\wake_word\wake_0009_insert_audio_(87).wav,330.33,333.4,0.928,wake_word,speaker_1,indoor
+wake_0010_insert_audio_(27).wav,wake_word_1hour.wav,insert_audio (27).wav,dataset\processed\wake_word\wake_0010_insert_audio_(27).wav,381.3,384.37,1.312,wake_word,speaker_1,indoor
+wake_0011_insert_audio_(44).wav,wake_word_1hour.wav,insert_audio (44).wav,dataset\processed\wake_word\wake_0011_insert_audio_(44).wav,446.32,449.14,0.8,wake_word,speaker_1,indoor
+wake_0012_insert_audio_(9).wav,wake_word_1hour.wav,insert_audio (9).wav,dataset\processed\wake_word\wake_0012_insert_audio_(9).wav,459.9,462.97,1.248,wake_word,speaker_1,indoor
+wake_0013_insert_audio_(39).wav,wake_word_1hour.wav,insert_audio (39).wav,dataset\processed\wake_word\wake_0013_insert_audio_(39).wav,467.88,470.96,0.736,wake_word,speaker_1,indoor
+wake_0014_insert_audio_(61).wav,wake_word_1hour.wav,insert_audio (61).wav,dataset\processed\wake_word\wake_0014_insert_audio_(61).wav,480.46,483.28,0.832,wake_word,speaker_1,indoor
+wake_0015_insert_audio_(15).wav,wake_word_1hour.wav,insert_audio (15).wav,dataset\processed\wake_word\wake_0015_insert_audio_(15).wav,527.48,530.29,1.312,wake_word,speaker_1,indoor
+wake_0016_insert_audio_(82).wav,wake_word_1hour.wav,insert_audio (82).wav,dataset\processed\wake_word\wake_0016_insert_audio_(82).wav,538.51,541.58,1.28,wake_word,speaker_1,indoor
+wake_0017_insert_audio_(81).wav,wake_word_1hour.wav,insert_audio (81).wav,dataset\processed\wake_word\wake_0017_insert_audio_(81).wav,580.21,583.28,1.28,wake_word,speaker_1,indoor
+wake_0018_insert_audio_(56).wav,wake_word_1hour.wav,insert_audio (56).wav,dataset\processed\wake_word\wake_0018_insert_audio_(56).wav,585.65,588.47,0.864,wake_word,speaker_1,indoor
+wake_0019_insert_audio_(74).wav,wake_word_1hour.wav,insert_audio (74).wav,dataset\processed\wake_word\wake_0019_insert_audio_(74).wav,599.25,602.06,0.896,wake_word,speaker_1,indoor
+wake_0020_insert_audio_(48).wav,wake_word_1hour.wav,insert_audio (48).wav,dataset\processed\wake_word\wake_0020_insert_audio_(48).wav,641.06,643.88,0.832,wake_word,speaker_1,indoor
+wake_0021_insert_audio_(23).wav,wake_word_1hour.wav,insert_audio (23).wav,dataset\processed\wake_word\wake_0021_insert_audio_(23).wav,663.36,666.43,1.344,wake_word,speaker_1,indoor
+wake_0022_insert_audio_(64).wav,wake_word_1hour.wav,insert_audio (64).wav,dataset\processed\wake_word\wake_0022_insert_audio_(64).wav,671.01,674.09,0.736,wake_word,speaker_1,indoor
+wake_0023_insert_audio_(90).wav,wake_word_1hour.wav,insert_audio (90).wav,dataset\processed\wake_word\wake_0023_insert_audio_(90).wav,677.59,680.66,0.928,wake_word,speaker_1,indoor
+wake_0024_insert_audio_(20).wav,wake_word_1hour.wav,insert_audio (20).wav,dataset\processed\wake_word\wake_0024_insert_audio_(20).wav,749.32,752.39,1.344,wake_word,speaker_1,indoor
+wake_0025_insert_audio_(94).wav,wake_word_1hour.wav,insert_audio (94).wav,dataset\processed\wake_word\wake_0025_insert_audio_(94).wav,834.29,837.37,0.8,wake_word,speaker_1,indoor
+wake_0026_insert_audio_(43).wav,wake_word_1hour.wav,insert_audio (43).wav,dataset\processed\wake_word\wake_0026_insert_audio_(43).wav,884.93,887.74,0.768,wake_word,speaker_1,indoor
+wake_0027_insert_audio_(66).wav,wake_word_1hour.wav,insert_audio (66).wav,dataset\processed\wake_word\wake_0027_insert_audio_(66).wav,891.82,894.89,0.736,wake_word,speaker_1,indoor
+wake_0028_insert_audio_(97).wav,wake_word_1hour.wav,insert_audio (97).wav,dataset\processed\wake_word\wake_0028_insert_audio_(97).wav,919.9,922.71,0.928,wake_word,speaker_1,indoor
+wake_0029_insert_audio_(76).wav,wake_word_1hour.wav,insert_audio (76).wav,dataset\processed\wake_word\wake_0029_insert_audio_(76).wav,1004.34,1007.15,0.896,wake_word,speaker_1,indoor
+wake_0030_insert_audio_(70).wav,wake_word_1hour.wav,insert_audio (70).wav,dataset\processed\wake_word\wake_0030_insert_audio_(70).wav,1010.29,1013.36,0.928,wake_word,speaker_1,indoor
+wake_0031_insert_audio_(57).wav,wake_word_1hour.wav,insert_audio (57).wav,dataset\processed\wake_word\wake_0031_insert_audio_(57).wav,1034.43,1037.25,0.864,wake_word,speaker_1,indoor
+wake_0032_insert_audio_(41).wav,wake_word_1hour.wav,insert_audio (41).wav,dataset\processed\wake_word\wake_0032_insert_audio_(41).wav,1054.51,1057.32,0.768,wake_word,speaker_1,indoor
+wake_0033_insert_audio_(93).wav,wake_word_1hour.wav,insert_audio (93).wav,dataset\processed\wake_word\wake_0033_insert_audio_(93).wav,1102.02,1104.83,0.96,wake_word,speaker_1,indoor
+wake_0034_insert_audio_(11).wav,wake_word_1hour.wav,insert_audio (11).wav,dataset\processed\wake_word\wake_0034_insert_audio_(11).wav,1110.99,1113.8,1.312,wake_word,speaker_1,indoor
+wake_0035_insert_audio_(47).wav,wake_word_1hour.wav,insert_audio (47).wav,dataset\processed\wake_word\wake_0035_insert_audio_(47).wav,1119.15,1121.96,0.768,wake_word,speaker_1,indoor
+wake_0036_insert_audio_(59).wav,wake_word_1hour.wav,insert_audio (59).wav,dataset\processed\wake_word\wake_0036_insert_audio_(59).wav,1231.03,1234.1,0.8,wake_word,speaker_1,indoor
+wake_0037_insert_audio_(21).wav,wake_word_1hour.wav,insert_audio (21).wav,dataset\processed\wake_word\wake_0037_insert_audio_(21).wav,1251.77,1254.84,1.344,wake_word,speaker_1,indoor
+wake_0038_insert_audio_(55).wav,wake_word_1hour.wav,insert_audio (55).wav,dataset\processed\wake_word\wake_0038_insert_audio_(55).wav,1289.81,1292.62,0.864,wake_word,speaker_1,indoor
+wake_0039_insert_audio_(10).wav,wake_word_1hour.wav,insert_audio (10).wav,dataset\processed\wake_word\wake_0039_insert_audio_(10).wav,1319.85,1322.93,1.28,wake_word,speaker_1,indoor
+wake_0040_insert_audio_(65).wav,wake_word_1hour.wav,insert_audio (65).wav,dataset\processed\wake_word\wake_0040_insert_audio_(65).wav,1359.61,1362.68,0.736,wake_word,speaker_1,indoor
+wake_0041_insert_audio_(17).wav,wake_word_1hour.wav,insert_audio (17).wav,dataset\processed\wake_word\wake_0041_insert_audio_(17).wav,1426.8,1429.62,1.312,wake_word,speaker_1,indoor
+wake_0042_insert_audio_(33).wav,wake_word_1hour.wav,insert_audio (33).wav,dataset\processed\wake_word\wake_0042_insert_audio_(33).wav,1518.32,1521.4,1.408,wake_word,speaker_1,indoor
+wake_0043_insert_audio_(89).wav,wake_word_1hour.wav,insert_audio (89).wav,dataset\processed\wake_word\wake_0043_insert_audio_(89).wav,1522.45,1525.52,0.928,wake_word,speaker_1,indoor
+wake_0044_insert_audio_(54).wav,wake_word_1hour.wav,insert_audio (54).wav,dataset\processed\wake_word\wake_0044_insert_audio_(54).wav,1568.31,1571.12,0.864,wake_word,speaker_1,indoor
+wake_0045_insert_audio_(37).wav,wake_word_1hour.wav,insert_audio (37).wav,dataset\processed\wake_word\wake_0045_insert_audio_(37).wav,1600.63,1603.44,0.96,wake_word,speaker_1,indoor
+wake_0046_insert_audio_(13).wav,wake_word_1hour.wav,insert_audio (13).wav,dataset\processed\wake_word\wake_0046_insert_audio_(13).wav,1613.83,1616.65,1.312,wake_word,speaker_1,indoor
+wake_0047_insert_audio_(71).wav,wake_word_1hour.wav,insert_audio (71).wav,dataset\processed\wake_word\wake_0047_insert_audio_(71).wav,1659.4,1662.47,0.864,wake_word,speaker_1,indoor
+wake_0048_insert_audio_(22).wav,wake_word_1hour.wav,insert_audio (22).wav,dataset\processed\wake_word\wake_0048_insert_audio_(22).wav,1675.21,1678.28,1.344,wake_word,speaker_1,indoor
+wake_0049_insert_audio_(99).wav,wake_word_1hour.wav,insert_audio (99).wav,dataset\processed\wake_word\wake_0049_insert_audio_(99).wav,1770.67,1773.48,0.928,wake_word,speaker_1,indoor
+wake_0050_insert_audio_(69).wav,wake_word_1hour.wav,insert_audio (69).wav,dataset\processed\wake_word\wake_0050_insert_audio_(69).wav,1823.54,1826.61,0.928,wake_word,speaker_1,indoor
+wake_0051_insert_audio_(63).wav,wake_word_1hour.wav,insert_audio (63).wav,dataset\processed\wake_word\wake_0051_insert_audio_(63).wav,1903.06,1905.87,0.832,wake_word,speaker_1,indoor
+wake_0052_insert_audio_(79).wav,wake_word_1hour.wav,insert_audio (79).wav,dataset\processed\wake_word\wake_0052_insert_audio_(79).wav,1924.56,1927.38,0.896,wake_word,speaker_1,indoor
+wake_0053_insert_audio_(24).wav,wake_word_1hour.wav,insert_audio (24).wav,dataset\processed\wake_word\wake_0053_insert_audio_(24).wav,1963.14,1966.22,1.344,wake_word,speaker_1,indoor
+wake_0054_insert_audio_(18).wav,wake_word_1hour.wav,insert_audio (18).wav,dataset\processed\wake_word\wake_0054_insert_audio_(18).wav,2038.39,2041.46,1.344,wake_word,speaker_1,indoor
+wake_0055_insert_audio_(30).wav,wake_word_1hour.wav,insert_audio (30).wav,dataset\processed\wake_word\wake_0055_insert_audio_(30).wav,2049.36,2052.43,1.344,wake_word,speaker_1,indoor
+wake_0056_insert_audio_(84).wav,wake_word_1hour.wav,insert_audio (84).wav,dataset\processed\wake_word\wake_0056_insert_audio_(84).wav,2069.96,2073.03,0.96,wake_word,speaker_1,indoor
+wake_0057_insert_audio_(2).wav,wake_word_1hour.wav,insert_audio (2).wav,dataset\processed\wake_word\wake_0057_insert_audio_(2).wav,2093.93,2096.74,1.28,wake_word,speaker_1,indoor
+wake_0058_insert_audio_(68).wav,wake_word_1hour.wav,insert_audio (68).wav,dataset\processed\wake_word\wake_0058_insert_audio_(68).wav,2099.61,2102.68,0.928,wake_word,speaker_1,indoor
+wake_0059_insert_audio_(80).wav,wake_word_1hour.wav,insert_audio (80).wav,dataset\processed\wake_word\wake_0059_insert_audio_(80).wav,2129.37,2132.19,0.896,wake_word,speaker_1,indoor
+wake_0060_insert_audio_(50).wav,wake_word_1hour.wav,insert_audio (50).wav,dataset\processed\wake_word\wake_0060_insert_audio_(50).wav,2137.11,2139.92,0.832,wake_word,speaker_1,indoor
+wake_0061_insert_audio_(40).wav,wake_word_1hour.wav,insert_audio (40).wav,dataset\processed\wake_word\wake_0061_insert_audio_(40).wav,2219.27,2222.34,0.736,wake_word,speaker_1,indoor
+wake_0062_insert_audio_(72).wav,wake_word_1hour.wav,insert_audio (72).wav,dataset\processed\wake_word\wake_0062_insert_audio_(72).wav,2224.46,2227.54,0.864,wake_word,speaker_1,indoor
+wake_0063_insert_audio_(95).wav,wake_word_1hour.wav,insert_audio (95).wav,dataset\processed\wake_word\wake_0063_insert_audio_(95).wav,2234.33,2237.4,0.832,wake_word,speaker_1,indoor
+wake_0064_insert_audio_(35).wav,wake_word_1hour.wav,insert_audio (35).wav,dataset\processed\wake_word\wake_0064_insert_audio_(35).wav,2252.22,2255.03,0.96,wake_word,speaker_1,indoor
+wake_0065_insert_audio_(49).wav,wake_word_1hour.wav,insert_audio (49).wav,dataset\processed\wake_word\wake_0065_insert_audio_(49).wav,2260.63,2263.45,0.832,wake_word,speaker_1,indoor
+wake_0066_insert_audio_(19).wav,wake_word_1hour.wav,insert_audio (19).wav,dataset\processed\wake_word\wake_0066_insert_audio_(19).wav,2320.4,2323.47,1.344,wake_word,speaker_1,indoor
+wake_0067_insert_audio_(46).wav,wake_word_1hour.wav,insert_audio (46).wav,dataset\processed\wake_word\wake_0067_insert_audio_(46).wav,2354.55,2357.36,0.8,wake_word,speaker_1,indoor
+wake_0068_insert_audio_(42).wav,wake_word_1hour.wav,insert_audio (42).wav,dataset\processed\wake_word\wake_0068_insert_audio_(42).wav,2378.93,2381.74,0.8,wake_word,speaker_1,indoor
+wake_0069_insert_audio_(31).wav,wake_word_1hour.wav,insert_audio (31).wav,dataset\processed\wake_word\wake_0069_insert_audio_(31).wav,2447.51,2450.59,1.408,wake_word,speaker_1,indoor
+wake_0070_insert_audio_(38).wav,wake_word_1hour.wav,insert_audio (38).wav,dataset\processed\wake_word\wake_0070_insert_audio_(38).wav,2451.93,2455.0,0.736,wake_word,speaker_1,indoor
+wake_0071_insert_audio_(53).wav,wake_word_1hour.wav,insert_audio (53).wav,dataset\processed\wake_word\wake_0071_insert_audio_(53).wav,2501.52,2504.59,0.8,wake_word,speaker_1,indoor
+wake_0072_insert_audio_(78).wav,wake_word_1hour.wav,insert_audio (78).wav,dataset\processed\wake_word\wake_0072_insert_audio_(78).wav,2512.16,2514.97,0.896,wake_word,speaker_1,indoor
+wake_0073_insert_audio_(58).wav,wake_word_1hour.wav,insert_audio (58).wav,dataset\processed\wake_word\wake_0073_insert_audio_(58).wav,2554.21,2557.28,0.8,wake_word,speaker_1,indoor
+wake_0074_insert_audio_(91).wav,wake_word_1hour.wav,insert_audio (91).wav,dataset\processed\wake_word\wake_0074_insert_audio_(91).wav,2622.7,2625.52,0.96,wake_word,speaker_1,indoor
+wake_0075_insert_audio_(60).wav,wake_word_1hour.wav,insert_audio (60).wav,dataset\processed\wake_word\wake_0075_insert_audio_(60).wav,2631.7,2634.77,0.8,wake_word,speaker_1,indoor
+wake_0076_insert_audio_(96).wav,wake_word_1hour.wav,insert_audio (96).wav,dataset\processed\wake_word\wake_0076_insert_audio_(96).wav,2679.95,2683.02,0.832,wake_word,speaker_1,indoor
+wake_0077_insert_audio_(52).wav,wake_word_1hour.wav,insert_audio (52).wav,dataset\processed\wake_word\wake_0077_insert_audio_(52).wav,2688.39,2691.46,0.8,wake_word,speaker_1,indoor
+wake_0078_insert_audio_(16).wav,wake_word_1hour.wav,insert_audio (16).wav,dataset\processed\wake_word\wake_0078_insert_audio_(16).wav,2696.32,2699.13,1.312,wake_word,speaker_1,indoor
+wake_0079_insert_audio_(51).wav,wake_word_1hour.wav,insert_audio (51).wav,dataset\processed\wake_word\wake_0079_insert_audio_(51).wav,2749.11,2752.18,0.8,wake_word,speaker_1,indoor
+wake_0080_insert_audio_(45).wav,wake_word_1hour.wav,insert_audio (45).wav,dataset\processed\wake_word\wake_0080_insert_audio_(45).wav,2854.15,2856.96,0.768,wake_word,speaker_1,indoor
+wake_0081_insert_audio_(8).wav,wake_word_1hour.wav,insert_audio (8).wav,dataset\processed\wake_word\wake_0081_insert_audio_(8).wav,2859.3,2862.37,1.248,wake_word,speaker_1,indoor
+wake_0082_insert_audio_(92).wav,wake_word_1hour.wav,insert_audio (92).wav,dataset\processed\wake_word\wake_0082_insert_audio_(92).wav,3011.15,3013.97,0.96,wake_word,speaker_1,indoor
+wake_0083_insert_audio_(7).wav,wake_word_1hour.wav,insert_audio (7).wav,dataset\processed\wake_word\wake_0083_insert_audio_(7).wav,3018.56,3021.63,1.28,wake_word,speaker_1,indoor
+wake_0084_insert_audio_(62).wav,wake_word_1hour.wav,insert_audio (62).wav,dataset\processed\wake_word\wake_0084_insert_audio_(62).wav,3022.93,3025.74,0.832,wake_word,speaker_1,indoor
+wake_0085_insert_audio_(6).wav,wake_word_1hour.wav,insert_audio (6).wav,dataset\processed\wake_word\wake_0085_insert_audio_(6).wav,3028.67,3031.75,1.28,wake_word,speaker_1,indoor
+wake_0086_insert_audio_(14).wav,wake_word_1hour.wav,insert_audio (14).wav,dataset\processed\wake_word\wake_0086_insert_audio_(14).wav,3069.84,3072.66,1.312,wake_word,speaker_1,indoor
+wake_0087_insert_audio_(73).wav,wake_word_1hour.wav,insert_audio (73).wav,dataset\processed\wake_word\wake_0087_insert_audio_(73).wav,3124.71,3127.78,0.864,wake_word,speaker_1,indoor
+wake_0088_insert_audio_(77).wav,wake_word_1hour.wav,insert_audio (77).wav,dataset\processed\wake_word\wake_0088_insert_audio_(77).wav,3133.2,3136.02,0.896,wake_word,speaker_1,indoor
+wake_0089_insert_audio_(100).wav,wake_word_1hour.wav,insert_audio (100).wav,dataset\processed\wake_word\wake_0089_insert_audio_(100).wav,3149.41,3152.23,0.928,wake_word,speaker_1,indoor
+wake_0090_insert_audio_(88).wav,wake_word_1hour.wav,insert_audio (88).wav,dataset\processed\wake_word\wake_0090_insert_audio_(88).wav,3169.98,3173.05,0.928,wake_word,speaker_1,indoor
+wake_0091_insert_audio_(36).wav,wake_word_1hour.wav,insert_audio (36).wav,dataset\processed\wake_word\wake_0091_insert_audio_(36).wav,3190.2,3193.01,0.96,wake_word,speaker_1,indoor
+wake_0092_insert_audio_(83).wav,wake_word_1hour.wav,insert_audio (83).wav,dataset\processed\wake_word\wake_0092_insert_audio_(83).wav,3195.9,3198.97,1.248,wake_word,speaker_1,indoor
+wake_0093_insert_audio_(4).wav,wake_word_1hour.wav,insert_audio (4).wav,dataset\processed\wake_word\wake_0093_insert_audio_(4).wav,3212.14,3214.96,1.248,wake_word,speaker_1,indoor
+wake_0094_insert_audio_(3).wav,wake_word_1hour.wav,insert_audio (3).wav,dataset\processed\wake_word\wake_0094_insert_audio_(3).wav,3223.74,3226.55,1.28,wake_word,speaker_1,indoor
+wake_0095_insert_audio_(26).wav,wake_word_1hour.wav,insert_audio (26).wav,dataset\processed\wake_word\wake_0095_insert_audio_(26).wav,3265.8,3268.87,1.344,wake_word,speaker_1,indoor
+wake_0096_insert_audio_(75).wav,wake_word_1hour.wav,insert_audio (75).wav,dataset\processed\wake_word\wake_0096_insert_audio_(75).wav,3322.22,3325.04,0.896,wake_word,speaker_1,indoor
+wake_0097_insert_audio_(5).wav,wake_word_1hour.wav,insert_audio (5).wav,dataset\processed\wake_word\wake_0097_insert_audio_(5).wav,3383.86,3386.93,1.28,wake_word,speaker_1,indoor
+wake_0098_insert_audio_(29).wav,wake_word_1hour.wav,insert_audio (29).wav,dataset\processed\wake_word\wake_0098_insert_audio_(29).wav,3422.65,3425.72,1.344,wake_word,speaker_1,indoor
+wake_0099_insert_audio_(98).wav,wake_word_1hour.wav,insert_audio (98).wav,dataset\processed\wake_word\wake_0099_insert_audio_(98).wav,3488.26,3491.07,0.928,wake_word,speaker_1,indoor
+wake_0100_insert_audio_(1).wav,wake_word_1hour.wav,insert_audio (1).wav,dataset\processed\wake_word\wake_0100_insert_audio_(1).wav,3530.22,3533.03,1.28,wake_word,speaker_1,indoor
+nonwake_0001_48p00s_51p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0001_48p00s_51p00s.wav,48.0,51.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0002_84p00s_87p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0002_84p00s_87p00s.wav,84.0,87.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0003_136p00s_139p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0003_136p00s_139p00s.wav,136.0,139.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0004_182p00s_185p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0004_182p00s_185p00s.wav,182.0,185.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0005_196p00s_199p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0005_196p00s_199p00s.wav,196.0,199.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0006_224p00s_227p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0006_224p00s_227p00s.wav,224.0,227.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0007_250p00s_253p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0007_250p00s_253p00s.wav,250.0,253.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0008_264p00s_267p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0008_264p00s_267p00s.wav,264.0,267.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0009_266p00s_269p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0009_266p00s_269p00s.wav,266.0,269.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0010_274p00s_277p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0010_274p00s_277p00s.wav,274.0,277.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0011_312p00s_315p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0011_312p00s_315p00s.wav,312.0,315.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0012_344p00s_347p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0012_344p00s_347p00s.wav,344.0,347.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0013_364p00s_367p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0013_364p00s_367p00s.wav,364.0,367.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0014_374p00s_377p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0014_374p00s_377p00s.wav,374.0,377.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0015_426p00s_429p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0015_426p00s_429p00s.wav,426.0,429.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0016_450p00s_453p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0016_450p00s_453p00s.wav,450.0,453.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0017_466p00s_469p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0017_466p00s_469p00s.wav,466.0,469.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0018_506p00s_509p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0018_506p00s_509p00s.wav,506.0,509.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0019_572p00s_575p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0019_572p00s_575p00s.wav,572.0,575.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0020_580p00s_583p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0020_580p00s_583p00s.wav,580.0,583.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0021_620p00s_623p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0021_620p00s_623p00s.wav,620.0,623.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0022_642p00s_645p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0022_642p00s_645p00s.wav,642.0,645.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0023_688p00s_691p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0023_688p00s_691p00s.wav,688.0,691.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0024_690p00s_693p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0024_690p00s_693p00s.wav,690.0,693.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0025_722p00s_725p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0025_722p00s_725p00s.wav,722.0,725.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0026_732p00s_735p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0026_732p00s_735p00s.wav,732.0,735.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0027_752p00s_755p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0027_752p00s_755p00s.wav,752.0,755.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0028_798p00s_801p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0028_798p00s_801p00s.wav,798.0,801.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0029_800p00s_803p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0029_800p00s_803p00s.wav,800.0,803.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0030_818p00s_821p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0030_818p00s_821p00s.wav,818.0,821.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0031_954p00s_957p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0031_954p00s_957p00s.wav,954.0,957.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0032_956p00s_959p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0032_956p00s_959p00s.wav,956.0,959.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0033_1044p00s_1047p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0033_1044p00s_1047p00s.wav,1044.0,1047.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0034_1046p00s_1049p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0034_1046p00s_1049p00s.wav,1046.0,1049.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0035_1054p00s_1057p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0035_1054p00s_1057p00s.wav,1054.0,1057.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0036_1056p00s_1059p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0036_1056p00s_1059p00s.wav,1056.0,1059.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0037_1094p00s_1097p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0037_1094p00s_1097p00s.wav,1094.0,1097.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0038_1136p00s_1139p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0038_1136p00s_1139p00s.wav,1136.0,1139.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0039_1272p00s_1275p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0039_1272p00s_1275p00s.wav,1272.0,1275.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0040_1278p00s_1281p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0040_1278p00s_1281p00s.wav,1278.0,1281.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0041_1296p00s_1299p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0041_1296p00s_1299p00s.wav,1296.0,1299.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0042_1304p00s_1307p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0042_1304p00s_1307p00s.wav,1304.0,1307.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0043_1332p00s_1335p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0043_1332p00s_1335p00s.wav,1332.0,1335.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0044_1348p00s_1351p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0044_1348p00s_1351p00s.wav,1348.0,1351.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0045_1386p00s_1389p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0045_1386p00s_1389p00s.wav,1386.0,1389.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0046_1398p00s_1401p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0046_1398p00s_1401p00s.wav,1398.0,1401.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0047_1424p00s_1427p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0047_1424p00s_1427p00s.wav,1424.0,1427.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0048_1444p00s_1447p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0048_1444p00s_1447p00s.wav,1444.0,1447.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0049_1466p00s_1469p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0049_1466p00s_1469p00s.wav,1466.0,1469.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0050_1468p00s_1471p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0050_1468p00s_1471p00s.wav,1468.0,1471.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0051_1474p00s_1477p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0051_1474p00s_1477p00s.wav,1474.0,1477.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0052_1506p00s_1509p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0052_1506p00s_1509p00s.wav,1506.0,1509.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0053_1508p00s_1511p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0053_1508p00s_1511p00s.wav,1508.0,1511.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0054_1544p00s_1547p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0054_1544p00s_1547p00s.wav,1544.0,1547.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0055_1578p00s_1581p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0055_1578p00s_1581p00s.wav,1578.0,1581.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0056_1584p00s_1587p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0056_1584p00s_1587p00s.wav,1584.0,1587.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0057_1600p00s_1603p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0057_1600p00s_1603p00s.wav,1600.0,1603.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0058_1602p00s_1605p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0058_1602p00s_1605p00s.wav,1602.0,1605.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0059_1614p00s_1617p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0059_1614p00s_1617p00s.wav,1614.0,1617.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0060_1630p00s_1633p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0060_1630p00s_1633p00s.wav,1630.0,1633.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0061_1654p00s_1657p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0061_1654p00s_1657p00s.wav,1654.0,1657.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0062_1708p00s_1711p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0062_1708p00s_1711p00s.wav,1708.0,1711.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0063_1758p00s_1761p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0063_1758p00s_1761p00s.wav,1758.0,1761.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0064_1790p00s_1793p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0064_1790p00s_1793p00s.wav,1790.0,1793.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0065_1824p00s_1827p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0065_1824p00s_1827p00s.wav,1824.0,1827.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0066_1830p00s_1833p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0066_1830p00s_1833p00s.wav,1830.0,1833.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0067_1896p00s_1899p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0067_1896p00s_1899p00s.wav,1896.0,1899.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0068_1900p00s_1903p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0068_1900p00s_1903p00s.wav,1900.0,1903.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0069_1924p00s_1927p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0069_1924p00s_1927p00s.wav,1924.0,1927.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0070_1968p00s_1971p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0070_1968p00s_1971p00s.wav,1968.0,1971.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0071_1978p00s_1981p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0071_1978p00s_1981p00s.wav,1978.0,1981.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0072_2012p00s_2015p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0072_2012p00s_2015p00s.wav,2012.0,2015.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0073_2014p00s_2017p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0073_2014p00s_2017p00s.wav,2014.0,2017.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0074_2022p00s_2025p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0074_2022p00s_2025p00s.wav,2022.0,2025.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0075_2030p00s_2033p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0075_2030p00s_2033p00s.wav,2030.0,2033.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0076_2038p00s_2041p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0076_2038p00s_2041p00s.wav,2038.0,2041.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0077_2042p00s_2045p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0077_2042p00s_2045p00s.wav,2042.0,2045.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0078_2054p00s_2057p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0078_2054p00s_2057p00s.wav,2054.0,2057.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0079_2062p00s_2065p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0079_2062p00s_2065p00s.wav,2062.0,2065.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0080_2106p00s_2109p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0080_2106p00s_2109p00s.wav,2106.0,2109.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0081_2142p00s_2145p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0081_2142p00s_2145p00s.wav,2142.0,2145.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0082_2144p00s_2147p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0082_2144p00s_2147p00s.wav,2144.0,2147.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0083_2158p00s_2161p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0083_2158p00s_2161p00s.wav,2158.0,2161.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0084_2216p00s_2219p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0084_2216p00s_2219p00s.wav,2216.0,2219.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0085_2318p00s_2321p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0085_2318p00s_2321p00s.wav,2318.0,2321.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0086_2328p00s_2331p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0086_2328p00s_2331p00s.wav,2328.0,2331.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0087_2336p00s_2339p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0087_2336p00s_2339p00s.wav,2336.0,2339.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0088_2346p00s_2349p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0088_2346p00s_2349p00s.wav,2346.0,2349.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0089_2446p00s_2449p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0089_2446p00s_2449p00s.wav,2446.0,2449.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0090_2486p00s_2489p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0090_2486p00s_2489p00s.wav,2486.0,2489.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0091_2498p00s_2501p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0091_2498p00s_2501p00s.wav,2498.0,2501.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0092_2524p00s_2527p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0092_2524p00s_2527p00s.wav,2524.0,2527.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0093_2534p00s_2537p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0093_2534p00s_2537p00s.wav,2534.0,2537.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0094_2564p00s_2567p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0094_2564p00s_2567p00s.wav,2564.0,2567.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0095_2582p00s_2585p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0095_2582p00s_2585p00s.wav,2582.0,2585.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0096_2612p00s_2615p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0096_2612p00s_2615p00s.wav,2612.0,2615.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0097_2622p00s_2625p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0097_2622p00s_2625p00s.wav,2622.0,2625.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0098_2630p00s_2633p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0098_2630p00s_2633p00s.wav,2630.0,2633.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0099_2644p00s_2647p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0099_2644p00s_2647p00s.wav,2644.0,2647.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0100_2650p00s_2653p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0100_2650p00s_2653p00s.wav,2650.0,2653.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0101_2652p00s_2655p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0101_2652p00s_2655p00s.wav,2652.0,2655.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0102_2658p00s_2661p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0102_2658p00s_2661p00s.wav,2658.0,2661.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0103_2688p00s_2691p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0103_2688p00s_2691p00s.wav,2688.0,2691.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0104_2700p00s_2703p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0104_2700p00s_2703p00s.wav,2700.0,2703.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0105_2726p00s_2729p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0105_2726p00s_2729p00s.wav,2726.0,2729.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0106_2730p00s_2733p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0106_2730p00s_2733p00s.wav,2730.0,2733.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0107_2732p00s_2735p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0107_2732p00s_2735p00s.wav,2732.0,2735.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0108_2746p00s_2749p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0108_2746p00s_2749p00s.wav,2746.0,2749.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0109_2762p00s_2765p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0109_2762p00s_2765p00s.wav,2762.0,2765.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0110_2784p00s_2787p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0110_2784p00s_2787p00s.wav,2784.0,2787.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0111_2796p00s_2799p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0111_2796p00s_2799p00s.wav,2796.0,2799.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0112_2842p00s_2845p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0112_2842p00s_2845p00s.wav,2842.0,2845.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0113_2870p00s_2873p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0113_2870p00s_2873p00s.wav,2870.0,2873.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0114_2944p00s_2947p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0114_2944p00s_2947p00s.wav,2944.0,2947.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0115_2980p00s_2983p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0115_2980p00s_2983p00s.wav,2980.0,2983.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0116_3020p00s_3023p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0116_3020p00s_3023p00s.wav,3020.0,3023.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0117_3030p00s_3033p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0117_3030p00s_3033p00s.wav,3030.0,3033.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0118_3040p00s_3043p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0118_3040p00s_3043p00s.wav,3040.0,3043.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0119_3098p00s_3101p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0119_3098p00s_3101p00s.wav,3098.0,3101.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0120_3106p00s_3109p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0120_3106p00s_3109p00s.wav,3106.0,3109.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0121_3124p00s_3127p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0121_3124p00s_3127p00s.wav,3124.0,3127.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0122_3150p00s_3153p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0122_3150p00s_3153p00s.wav,3150.0,3153.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0123_3274p00s_3277p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0123_3274p00s_3277p00s.wav,3274.0,3277.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0124_3276p00s_3279p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0124_3276p00s_3279p00s.wav,3276.0,3279.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0125_3284p00s_3287p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0125_3284p00s_3287p00s.wav,3284.0,3287.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0126_3290p00s_3293p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0126_3290p00s_3293p00s.wav,3290.0,3293.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0127_3306p00s_3309p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0127_3306p00s_3309p00s.wav,3306.0,3309.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0128_3340p00s_3343p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0128_3340p00s_3343p00s.wav,3340.0,3343.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0129_3344p00s_3347p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0129_3344p00s_3347p00s.wav,3344.0,3347.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0130_3390p00s_3393p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0130_3390p00s_3393p00s.wav,3390.0,3393.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0131_3410p00s_3413p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0131_3410p00s_3413p00s.wav,3410.0,3413.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0132_3424p00s_3427p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0132_3424p00s_3427p00s.wav,3424.0,3427.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0133_3468p00s_3471p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0133_3468p00s_3471p00s.wav,3468.0,3471.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0134_3488p00s_3491p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0134_3488p00s_3491p00s.wav,3488.0,3491.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0135_3532p00s_3535p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0135_3532p00s_3535p00s.wav,3532.0,3535.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0136_3556p00s_3559p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0136_3556p00s_3559p00s.wav,3556.0,3559.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0137_3562p00s_3565p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0137_3562p00s_3565p00s.wav,3562.0,3565.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0138_3598p00s_3601p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0138_3598p00s_3601p00s.wav,3598.0,3601.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0139_3628p00s_3631p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0139_3628p00s_3631p00s.wav,3628.0,3631.0,3.0,non_wake_word,speaker_1,indoor
+nonwake_0140_3650p00s_3653p00s.wav,non_wake_word_1hour.wav,generated_from_nonwake_audio,dataset\processed\non_wake_word\nonwake_0140_3650p00s_3653p00s.wav,3650.0,3653.0,3.0,non_wake_word,speaker_1,indoor

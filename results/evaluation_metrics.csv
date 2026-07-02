@@ -1,0 +1,2 @@
+TP,FN,FP,TN,accuracy,precision,recall,f1_score,FAR,FRR,threshold
+15,0,0,21,1.0,1.0,1.0,1.0,0.0,0.0,-5.817570921291157
